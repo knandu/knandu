@@ -41,8 +41,8 @@ I regularly publish technical teardowns and case studies focusing on engineering
 
 ## Featured Repositories & Evidence Artifacts *(In Progress)*
 
-* **`tamil-transliterator-local`** *(Publishing Soon)*  
-  *Standalone, zero-cloud Tamil IME running unmodified FP32 IndicXlit ONNX models on-device via WebAssembly at ~100 ms latency.*
+* **[`tamil-transliterator`](https://github.com/knandu/tamil-transliterator)** 
+  *Standalone, zero-cloud Tamil IME running unmodified FP32 IndicXlit ONNX models on-device via WebAssembly at interactive typing.*
 * **`gpu-orchestration-experiments`** *(Publishing Soon)*  
   *Benchmarking and resource management patterns for heterogeneous inference workloads.*
 
