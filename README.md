@@ -28,13 +28,13 @@ My primary focus is turning complex, heterogeneous GPU/CPU compute environments 
 
 I regularly publish technical teardowns and case studies focusing on engineering constraints, systems trade-offs, performance debugging, and operational simplicity:
 
-* **[I Thought I Had a Model Problem. It Turned Out to Be a Latency Problem](https://www.linkedin.com/in/knandu/)**  
+* **[I Thought I Had a Model Problem. It Turned Out to Be a Latency Problem](https://www.linkedin.com/pulse/i-thought-had-model-problem-turned-out-latency-kirubanandan-ah7nc)**  
   *Analyzing local ONNX WASM execution constraints, CPU thread boundaries, and interactive candidate generation for on-device natural language interfaces.*
-* **[The Device Worked. The Workload Didn't.](https://www.linkedin.com/in/knandu/)**  
+* **[The Device Worked. The Workload Didn't.](https://www.linkedin.com/pulse/device-worked-workload-didnt-nandagopal-kirubanandan-rm37f)**  
   *Cross-layer systems debugging involving Hyper-V Discrete Device Assignment, PCIe Atomic Operations, and guest VM enumeration failures.*
-* **[Chasing the Wrong Target](https://www.linkedin.com/in/knandu/)**  
+* **[Chasing the Wrong Target](https://www.linkedin.com/pulse/chasing-wrong-target-nandagopal-kirubanandan-2z36c)**  
   *Lessons on metric selection, architectural constraints, and organizational alignment from large-scale storage virtualization.*
-* **[When Expertise Stops Being the Bottleneck](https://www.linkedin.com/in/knandu/)**  
+* **[When Expertise Stops Being the Bottleneck](https://www.linkedin.com/pulse/when-expertise-stops-being-bottleneck-nandagopal-kirubanandan-clvlc)**  
   *Accelerating specialized systems engineering workflows and complex infrastructure debugging through structured AI tools.*
 
 ---
