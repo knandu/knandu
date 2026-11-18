@@ -42,7 +42,7 @@ I write about systems engineering through experiments, failures, performance inv
 * **[Look for Evidence of Experimentation, Not Polish](https://www.linkedin.com/pulse/look-evidence-experimentation-polish-nandagopal-kirubanandan-ou9oc/)**  
   *Why tested assumptions and visible learning reveal more about a proposal than a polished presentation alone.*
 
-**More writing:** [kirubanandan.me](https://kirubanandan.me)
+**More writing:** [kirubanandan.me](https://kirubanandan.me/articles.html)
 
 ---
 
