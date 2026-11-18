@@ -19,7 +19,7 @@ My primary focus is turning complex, heterogeneous GPU/CPU compute environments 
 
 ## Technical Focus & Systems Expertise
 
-* **AI & Accelerated Computing:** Local/Edge ONNX Runtime execution (CPU/WASM), model memory optimization, inference latency profiling, GPU/CPU resource orchestration.
+* **AI & Accelerated Computing:** Local and self-hosted model inference, inference performance and resource economics, heterogeneous CPU/GPU placement, context/KV-cache optimization, model serving, and agent/tool orchestration.
 * **Distributed & Core Systems:** High-availability clustering, failover mechanisms, distributed state & reconciliation, storage virtualization (Storage Spaces Direct, NVMe, NTFS), kernel-level diagnostic drivers.
 * **Platform & Orchestration:** Software-defined infrastructure, datacenter-scale VM/bare-metal orchestration, hardware qualification, performance regression isolation.
 
@@ -40,13 +40,19 @@ I regularly publish technical teardowns and case studies focusing on engineering
 
 ---
 
-## Featured Repositories & Evidence Artifacts *(In Progress)*
+## Featured Repositories & Evidence Artifacts
 
-* **[`tamil-transliterator`](https://github.com/knandu/tamil-transliterator)** 
-  *Standalone, zero-cloud Tamil IME running unmodified FP32 IndicXlit ONNX models on-device via WebAssembly at interactive typing.*
-* **`gpu-orchestration-experiments`** *(Publishing Soon)*  
-  *Benchmarking and resource management patterns for heterogeneous inference workloads.*
+* **[`capability-under-constraints`](https://github.com/knandu/capability-under-constraints)**  
+  *Engineering notebook on extracting useful AI capability under constrained hardware, context, and tooling. Measurements span model placement, context economics, agent overhead, bounded workflows, and explicit stopping decisions.*
+* **[`control-plane-experiment`](https://github.com/knandu/control-plane-experiment)**  
+  *Architecture experiment exploring authority, observation, durable intent, fencing, reconciliation, failure, and recovery in a small distributed control plane.*
+* **[`tamil-transliterator`](https://github.com/knandu/tamil-transliterator)**  
+  *Browser-native Tamil transliteration using IndicXlit and ONNX Runtime Web/WASM, with local inference and explicit editing ownership.*
+* **[`hyper-v-lab`](https://github.com/knandu/hyper-v-lab)**  
+  *Reproducible Windows Server/Hyper-V substrate for systems experiments, including AD/DNS and multi-node failover clustering.*
+* **[`kvm-lab`](https://github.com/knandu/kvm-lab)**  
+  *Reproducible Linux/KVM substrate with disposable Ubuntu guests, isolated networking, and validated lifecycle operations.*
 
 ---
 
-*Note: This repository serves as a curated portfolio index. Individual reference implementations, architecture designs, and benchmark suites are hosted in dedicated public repositories above.*
+*Note: This repository serves as a curated portfolio index. Reference implementations, architecture experiments, engineering notebooks, and reproducible lab substrates are hosted in the dedicated public repositories above.*
